@@ -1,64 +1,44 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <link type="text/css" rel="stylesheet" href="stylesheet.css"/>
-        <title>Melissa Eligio</title>
-    </head>
-    <body>
-        <div id="header">
-            <h1>My resume</h1>
-            <p>Hey hey</p>
-        </div>
-        <div class="left">
-            <ul>
-                <li>1998</li>
-                    <ul>
-                        <li>
-                        <p>Detta år skedde ett år efter 2000. det varade i 265 dagar, och var ett år likt andra, förutm vissa händelser.</p>
-                        </li>
-                    </ul>
-                <li>2001</li>
-                </ul>
-            </div>
-        <div class="right">
-        <h3>This page is turning out to be a failure.</h3></div>
-        <div id="footer">
-        <p>some info, some onfo, some oinfo.</div>
-    </body>
+   <head>
+      <link typr="text/css" rel="stylesheet" href="stylesheet.css"/>
+                              <title>My Resume</title>
+</head>
+ <body>
+
+<div id="header">
+       <p>Melissa Eligio</p>
+<p>232 st. John Cir. Apt. 202</p>
+<p>Fern Park, FL 32730</p>
+</div>
+
+<div id="body">
+     <h2>Bio<h2>
+<h4>Full time Digital media student working part time at the Career Development Center at Seminole State College and working on my art skills to start working in animation, creating my own work for cartoons and books. </h4>
+<h2>Skills</h2>
+<h4>•familiar with Word, PowerPoint, Excel, Wordpress, Outlook, Wordpress, HTML, Photo editing, digital art, and photographing. </h4>
+<h2>Software/Hardware</h2>
+<h4><a Adobe Illustrator</h4></a>
+<h4><a Adobe Photoshop</h4></a>
+<h4><a Adobe Dreamweaver</h4></a>
+<h4><a Indesign</h4></a>
+<h4><a After effects</h4></a>
+<h2>Social Media/Web</h2>
+<ul>
+<li><a href="https://github.com/maxiejw/fid">Github</a></li>
+<li><a href="www.linkedin.com/in/melissa-eligio-757784170">Linkedin</a></li>
+	</ul>
+<h2>Work Samples</h2>
+<ul>
+  <li><a href="https://maxiejw.github.io/fid/adexworkbetty.pdf">Ad example</a></li>
+  <li><a href="https://maxiejw.github.io/fid/Hawaii.pdf
+">Hawaii ad</a></li>
+  <li><a href="https://maxiejw.github.io/fid/melissa_eligio_CIB05.pdf">Weather</a></li>
+	<li><a href="https://maxiejw.github.io/fid/melissa_eligio_CIB07.pdf">Art ad</a></li>
+  <li><a href="https://maxiejw.github.io/fid/melissa_eligio_CIB08.pdf
+">Ad</a></li>
+</ul>
+</div>
+
+</body>
 </html>
-div{
-    border-radius:5px;  
-    background:blue;
-}
-
-#header{
-    height:43px;
-    width:400px;
-    border:1px solid green;
-    background-color:yellow;
-    position:fixed;
-    z-index:1;
-}
-.left{
-
-    height:66px;
-    width:400px;
-    border:1px solid green;
-    background-color:tomato;
-    float:left;
-}
-.right{
-    width:300px;
-    height:43px;
-    border:1px solid green;
-    float:right;
-    background-color:violet;
-}
-#footer{
-    color:white;
-    width:450px;
-    height:443px;
-    border:2px solid blue;
-    clear:both;
-    background-color:black;
-}
